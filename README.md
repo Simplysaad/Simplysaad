@@ -41,7 +41,7 @@ Feel free to reach out to me if you have any questions, suggestions, or if you'r
 ## Popular Projects:
 
 - [*CentralMarket*](https://github.com/simplysaad/CentralMarket): An e-commerce platform focused on student shopping needs.
-- [*Short-en*](https://github.com/simplysaad/short-en): A Node.js project to shorten URLs and track clicks.
+- [*Short-en*](https://github.com/simplysaad/short.en): A Node.js project to shorten URLs and track clicks.
 
 ## 🔗 Connect & Contribute
 
