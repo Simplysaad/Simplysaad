@@ -33,10 +33,10 @@ I occasionally write technical blogs and tutorials to share knowledge about deve
 
 Feel free to reach out to me if you have any questions, suggestions, or if you're looking to collaborate on an interesting project.
 
-- *Email*: [simplysaad24@gmail.com](mailto:simplysaad24@gmail.com)
-- *Twitter*: [@simplysaad](https://x.com/simply_saad)
-- *LinkedIn*: [Saad idris](https://www.linkedin.com/in/saad-idris-350271303)
-- *Instagram*: [simply_sa_ad](https://instagram.com/simply_sa_ad)
+- *Email* : [simplysaad24@gmail.com](mailto:simplysaad24@gmail.com)
+- *Twitter* : [@simply_saad](https://x.com/simply_saad)
+- *LinkedIn* : [Saad idris](https://www.linkedin.com/in/saad-idris-350271303)
+- *Instagram* : [simply_sa_ad](https://instagram.com/simply_sa_ad)
 
 ## Popular Projects:
 
